@@ -1,0 +1,28 @@
+            /* Global */
+            
+            *,
+            *::before,
+            *::after {
+                /*Aby sprawić, by do rozmiaru wszystkich elementów HTML wliczał się ich padding i border */
+                box-sizing: border-box;
+            }
+            
+            body {
+                background: rgb(250, 242, 232);
+                line-height: 2%;
+            }
+            
+            h1 {
+                text-align: center;
+            }
+            
+            h3 {
+                text-align: center;
+                padding: 1%;
+            }
+            
+            p {
+                padding: 8px;
+                font-size: small;
+                text-align: center;
+            }
