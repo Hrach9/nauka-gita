@@ -1,0 +1,6 @@
+< p > 
+  < button > Kliknij mnie! </ button > 
+  < div  id =" pokaż mi " >
+    Lorem ipsum
+  </ div > 
+</ p >
